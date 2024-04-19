@@ -20,7 +20,7 @@ Na ITS Soluções Integradas, nossa missão é garantir a segurança e o bem-est
 
 - **/imagens:** Diretório contendo imagens e recursos visuais.
 - **/css:** Estilos CSS para o site.
-- **index.html:** Página do site.
+- **/index.html:** Página do site.
 
 ## 🚀 Como Contribuir
 
