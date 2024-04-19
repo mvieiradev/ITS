@@ -36,4 +36,4 @@ Estamos ansiosos para colaborar com você!
 
 Para mais informações, entre em contato conosco:
 
-- **Email:** [contato@itssolucoes.com](mailto:miguelaraujovieira7@gmail.com)
+- **Email:** [miguelaraujovieira7@gmail.com](mailto:miguelaraujovieira7@gmail.com)
