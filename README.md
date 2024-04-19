@@ -14,17 +14,13 @@ Na ITS Soluções Integradas, nossa missão é garantir a segurança e o bem-est
 
 - HTML
 - CSS
-- JavaScript
-- React
-- Python
-- E mais...
+- JS
 
 ## 📁 Estrutura do Repositório
 
 - **/imagens:** Diretório contendo imagens e recursos visuais.
 - **/css:** Estilos CSS para o site.
-- **/js:** Scripts JavaScript para funcionalidades interativas.
-- **index.html:** Página inicial do site.
+- **index.html:** Página do site.
 
 ## 🚀 Como Contribuir
 
@@ -40,5 +36,4 @@ Estamos ansiosos para colaborar com você!
 
 Para mais informações, entre em contato conosco:
 
-- **Email:** [contato@itssolucoes.com](mailto:contato@itssolucoes.com)
-- **Telefone:** (XX) XXXX-XXXX
+- **Email:** [contato@itssolucoes.com](mailto:miguelaraujovieira7@gmail.com)
